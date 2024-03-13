@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assignment8_react/static/css/main.475b7312.css",
+    "main.js": "/assignment8_react/static/js/main.9147b36b.js",
+    "static/js/453.54da2868.chunk.js": "/assignment8_react/static/js/453.54da2868.chunk.js",
+    "static/media/logo.svg": "/assignment8_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/assignment8_react/index.html",
+    "main.475b7312.css.map": "/assignment8_react/static/css/main.475b7312.css.map",
+    "main.9147b36b.js.map": "/assignment8_react/static/js/main.9147b36b.js.map",
+    "453.54da2868.chunk.js.map": "/assignment8_react/static/js/453.54da2868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475b7312.css",
+    "static/js/main.9147b36b.js"
+  ]
+}
